@@ -1,9 +1,9 @@
 
 public class PracClass {
 	public void feedback(int score) {
-		if (score == 200)
+		if (score == 300)
 			System.out.println("You're awesome");
-		else if (score > 140)
+		else if (score > 200)
 			System.out.println("That's great");
 		else if (score > 10)
 			System.out.println("That's good ");
