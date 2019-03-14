@@ -1,3 +1,4 @@
+* some bad changes
 *   join pls
 |\  
 | * conflict pt. 2

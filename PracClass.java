@@ -2,7 +2,7 @@
 public class PracClass {
 	public void feedback(int score) {
 <<<<<<< HEAD
-		if (score == 200)
+		if (score == 600)
 			System.out.println("You're p baddy");
 		else if (score > 37)
 			System.out.println("That's Horrible");
